@@ -4,3 +4,10 @@ This bot is specifically made to resolve the most common issues and queries of a
 2. Administration 
 3. Hostel  
 4. Transportation.
+
+
+#Contributors:
+1. Jagrit Varshney
+2. Ishan Kulshestha
+3. Devanshu Jindal
+4. Harsh Agarwal
