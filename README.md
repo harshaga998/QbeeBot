@@ -6,7 +6,7 @@ This bot is specifically made to resolve the most common issues and queries of a
 4. Transportation.
 
 
-#Contributors:
+# Contributors:
 1. Jagrit Varshney
 2. Ishan Kulshestha
 3. Devanshu Jindal
