@@ -7,7 +7,8 @@ This bot is specifically made to resolve the common issues and queries of a firs
 
 
 # Contributors:
-1. Jagrit Varshney
-2. Ishan Kulshestha
-3. Devanshu Jindal
-4. Harsh Agarwal
+1. Harsh Agarwal
+2. Jagrit Varshney
+3. Ishan Kulshestha
+4. Devanshu Jindal
+
